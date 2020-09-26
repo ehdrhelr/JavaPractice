@@ -1,4 +1,4 @@
-<h2>숫자 야구게임</h2>
+<h2>숫자 야구게임 <a href="https://github.com/ehdrhelr/JavaPractice/blob/master/code-squad/NumberBaseballGame.java">(JAVA 코드)</a></h2> 
 
 <h4>요구사항</h4>
 
@@ -40,5 +40,3 @@
 <li>반복문을 2중(반복문 안의 반복문)으로 사용하면 한번에 고려할 부분이 많다. 2중 반복문을 1중 반복문 2개로 나누어 처리하는 방법은 없는지 고려해 본다.</li>
 <li>indent(인덴트, 들여쓰기) depth를 줄이는 좋은 방법은 함수(또는 메소드)를 분리하면 된다.</li>
 </ul>
-
-<a href="#">문제풀이</a>
